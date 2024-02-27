@@ -1,4 +1,4 @@
 # Shrey-trial
 This is my first Git Repository.
 <br>
-Author-Shreyansh
+Author-Shreyansh (Jain College)
